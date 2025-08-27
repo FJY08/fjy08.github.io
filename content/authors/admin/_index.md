@@ -190,7 +190,3 @@ awards:
 ## About Me
 
 I am **Junyu Fan**, a Master’s student in Applied Physics at **Delft University of Technology (TU Delft)**, graduating *cum laude* with a GPA of 8.7/10 (Top 5%). My research focuses on **quantum error correction, quantum information, mesoscopic physics, and computational physics**.  
-
-I have conducted research at **Shenzhen Institute for Quantum Science and Engineering**, **QuTech (TU Delft)**, and the **Institute of Modern Physics at Fudan University**. My work spans **holographic quantum error-correcting codes, quantum communication, and high-precision spectroscopy of highly charged ions**.  
-
-Beyond research, I enjoy **music producing, photography, ITX case design, and exploring video games**.  
