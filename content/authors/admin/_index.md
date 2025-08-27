@@ -1,20 +1,20 @@
 ---
 # Display name
-title: 吳健雄
+title: Junyu Fan
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Junyu
+last_name: Fan
 
 # Pronouns (optional)
-pronouns: she/her
+pronouns: he/him
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🔬
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,167 +23,174 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Master’s Student in Applied Physics
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations to display in Biography block
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: TU Delft
+    url: https://www.tudelft.nl/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:fzhjerry@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?hl=en&user=SS9oXGwAAAAJ
+  - icon: brands/github
+    url: https://github.com/QML-Group
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/junyu-fan/   # 如果有LinkedIn，请替换实际链接
+  - icon: brands/x
+    url: https://twitter.com/   # 如果有Twitter，可填具体账号或删除
+  - icon: brands/instagram
+    url: https://www.instagram.com/   # 若没有可删
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/   # 如果有ORCID ID可替换
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Quantum Error Correction
+  - Quantum Information & Communication
+  - Mesoscopic Physics
+  - Computational Physics
+  - Music Producing
+  - Photography
+  - ITX Case Designing
+  - Gaming
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Applied Physics (cum laude)
+    institution: Delft University of Technology (TU Delft), Netherlands
+    date_start: 2022-09-01
+    date_end: 2024-09-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      GPA: 8.7/10.0 (Top 5%)
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Thesis: *A Theory of Intrinsic Measurement-Free Quantum Error Correction in Spin Qubits*  
+      - Developed a measurement-free quantum error correction scheme based on Fermionic properties of electrons.  
+      - Mapped the feedback problem to a four-color linear separability problem on a hypercube, demonstrating advantages for spin qubit platforms.
+  - area: BEng Nuclear Engineering and Technology
+    institution: Fudan University, China
+    date_start: 2018-09-01
+    date_end: 2022-06-30
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 3.5/4.0 (Top 10%)  
+      Awarded *Shanghai Institute of Applied Physics Scholarship* (2021) for ranking 1st in the class.  
+
+      Relevant Courses:  
+      - Linear Algebra (A)  
+      - Advanced Mathematics (A)  
+      - Methods of Mathematical Physics (A-)  
+      - Probability Theory and Mathematical Statistics (A-)  
+      - Programming with C (A)  
+      - Programming with Python (B+)  
+      - Fundamentals of Digital Logic (A)
+  - area: Exchange Student (Summer Program)
+    institution: Yale University, USA
+    date_start: 2019-07-01
+    date_end: 2019-08-31
+    summary: |
+      Attended summer program at Yale University focusing on advanced physics topics.
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Research Intern
+    company_name: Shenzhen Institute for Quantum Science and Engineering
     company_url: ''
+    company_logo: ''
+    date_start: 2024-12-01
+    date_end: 2025-06-30
+    summary: |2-
+      **Project:** Intrinsic Measurement-Free Quantum Error Correction in Spin Qubits  
+      - Developed a measurement-free QEC scheme leveraging Fermionic properties of electrons.  
+      - Mapped the error correction feedback problem to a four-color linear separability problem on a hypercube.  
+      - Showed unique advantages for spin qubit platforms.
+  - position: Research Intern
+    company_name: QuTech, Delft University of Technology
+    company_url: https://qutech.nl/
+    company_logo: ''
+    date_start: 2023-09-01
+    date_end: 2024-05-31
+    summary: |
+      **Project:** Biased Noise Study for Holographic Quantum Error Correcting Codes  
+      - Developed a program for operator push in holographic tensor networks, the first automated implementation.  
+      - Designed multiple decoders (tensor network, integer optimization, neural network) achieving near-optimal decoding.  
+      - Discovered a holographic error-correcting code with 50% threshold under pure Pauli errors, surpassing the hashing bound.
+  - position: Research Assistant
+    company_name: Institute of Modern Physics, Fudan University
+    company_url: https://www.sinap.cas.cn/
     company_logo: ''
     date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+    date_end: 2022-03-31
+    summary: |
+      **Project:** Transition Spectra of Highly Charged Ruthenium Ions  
+      - Conducted high-precision measurements of M1 transition spectrum of Ru13+ ions using EBIT.  
+      - Achieved wavelength measurement accuracy of 0.002 nm.  
+      - Contributed to the development of Ru ion clocks and fundamental constant studies.
+  - position: Business Analyst Intern
+    company_name: Scheme Capital
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020-07-01
+    date_end: 2020-09-30
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Conducted industry research, investment case studies, and financial modeling.  
+      Participated in multiple early-stage investment projects.
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Programming Languages
     items:
       - name: Python
-        description: ''
+        percent: 90
+        icon: code-bracket
+      - name: C / C++
         percent: 80
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
+      - name: HTML & CSS
+        percent: 60
+        icon: code-bracket
+  - name: Scientific Computing
+    color: '#4caf50'
+    items:
+      - name: Numpy, Sympy, TensorNetwork, matplotlib, pandas
+        percent: 90
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+      - name: PyTorch, Gurobi
+        percent: 70
+        icon: cpu-chip
   - name: Hobbies
     color: '#eeac02'
-    color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
+      - name: Music Producing
         percent: 80
+        icon: musical-note
+      - name: Photography
+        percent: 75
         icon: camera
+      - name: PC/Server Building
+        percent: 85
+        icon: computer-desktop
+      - name: Gaming
+        percent: 70
+        icon: gamepad
 
 languages:
-  - name: English
+  - name: English (TOEFL iBT 109)
+    percent: 95
+  - name: Chinese (Native)
     percent: 100
-  - name: Chinese
-    percent: 75
   - name: Portuguese
-    percent: 25
+    percent: 40
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+  - title: Shanghai Institute of Applied Physics Scholarship
+    awarder: Shanghai Institute of Applied Physics
+    date: '2021-01-01'
+    summary: Awarded for ranking 1st in class at Fudan University.
 ---
-
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am **Junyu Fan**, a Master’s student in Applied Physics at **Delft University of Technology (TU Delft)**, graduating *cum laude* with a GPA of 8.7/10 (Top 5%). My research focuses on **quantum error correction, quantum information, mesoscopic physics, and computational physics**.  
+
+I have conducted research at **Shenzhen Institute for Quantum Science and Engineering**, **QuTech (TU Delft)**, and the **Institute of Modern Physics at Fudan University**. My work spans **holographic quantum error-correcting codes, quantum communication, and high-precision spectroscopy of highly charged ions**.  
+
+Beyond research, I enjoy **music producing, photography, ITX case design, and exploring video games**.  
