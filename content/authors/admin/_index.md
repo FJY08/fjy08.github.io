@@ -189,8 +189,10 @@ awards:
 ---
 ## About Me
 
-Hi, I’m Junyu Fan. I’m someone who wants to bring a bit of science fiction into real life, and use technology to make life better. I like exploring the “why” behind things, building cool stuff, and sometimes making music. 
+Hi, I’m Junyu Fan. I’m someone who wants to **bring a bit of science fiction into real life, and use technology to make life better**. I like exploring the “why” behind things, building cool stuff, and sometimes making music. 
 
-In the past few years I’ve been working on quantum error correction, mostly with holographic codes inspired by AdS/CFT, and also did some research on quantum dot qubits. For the future, I just want to keep following my curiosity. —questions such as: “If intelligence is viewed as a special kind of system, can its mathematical structure be solved through more generalized variational principles?” or “Does life require the preservation of quantum coherence? If so, might there exist natural processes of quantum error correction in nature?”
+In the past few years I’ve been working on quantum error correction, mostly with holographic codes inspired by AdS/CFT, and also did some research on quantum dot qubits. 
+
+For the future, I just want to keep following my curiosity. —questions such as: “If intelligence is viewed as a special kind of system, can its mathematical structure be solved through more generalized variational principles?” or “Does life require the preservation of quantum coherence? If so, might there exist natural processes of quantum error correction in nature?”
 
 One day, I hope to come closer to the answers to these profound questions.
