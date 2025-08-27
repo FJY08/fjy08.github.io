@@ -105,6 +105,16 @@ work:
       - Mapped the error correction feedback problem to a four-color linear separability problem on a hypercube.  
       - Showed unique advantages for spin qubit platforms.
   - position: Research Intern
+    company_name: Aramco Overseas Company
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-06-01
+    date_end: 2024-08-31
+    summary: |
+      - Proposed a signal pruning method for two-dimensional seismic sensing data using edge detection and brightness variation statistics.  
+      - Suggested a hypothesis that QUBO optimization difficulty may depend on the Hamming distance between initial state and global optimum, in addition to energy barrier height, and partially validated it on the D-Wave quantum annealer.  
+      - Classified the applicability of quantum acceleration for QUBO using a random forest approach.
+  - position: Research Intern
     company_name: QuTech, Delft University of Technology
     company_url: https://qutech.nl/
     company_logo: ''
@@ -136,50 +146,6 @@ work:
       Conducted industry research, investment case studies, and financial modeling.  
       Participated in multiple early-stage investment projects.
 
-skills:
-  - name: Programming Languages
-    items:
-      - name: Python
-        percent: 90
-        icon: code-bracket
-      - name: C / C++
-        percent: 80
-        icon: code-bracket
-      - name: HTML & CSS
-        percent: 60
-        icon: code-bracket
-  - name: Scientific Computing
-    color: '#4caf50'
-    items:
-      - name: Numpy, Sympy, TensorNetwork, matplotlib, pandas
-        percent: 90
-        icon: chart-bar
-      - name: PyTorch, Gurobi
-        percent: 70
-        icon: cpu-chip
-  - name: Hobbies
-    color: '#eeac02'
-    items:
-      - name: Music Producing
-        percent: 80
-        icon: musical-note
-      - name: Photography
-        percent: 75
-        icon: camera
-      - name: PC/Server Building
-        percent: 85
-        icon: computer-desktop
-      - name: Gaming
-        percent: 70
-        icon: gamepad
-
-languages:
-  - name: English (TOEFL iBT 109)
-    percent: 95
-  - name: Chinese (Native)
-    percent: 100
-  - name: Portuguese
-    percent: 40
 
 awards:
   - title: Shanghai Institute of Applied Physics Scholarship
@@ -195,4 +161,4 @@ In the past few years I’ve been working on quantum error correction, mostly wi
 
 For the future, I just want to keep following my curiosity. —questions such as: “If intelligence is viewed as a special kind of system, can its mathematical structure be solved through more generalized variational principles?” or “Does life require the preservation of quantum coherence? If so, might there exist natural processes of quantum error correction in nature?”
 
-One day, I hope to come closer to the answers to these profound questions.
+One day, I hope to come closer to the answers to these "big" questions.
