@@ -49,13 +49,11 @@ profiles:
     url: https://orcid.org/   # 如果有ORCID ID可替换
 
 interests:
+  - The Nature and Forms of Intelligence
   - Quantum Error Correction
-  - Quantum Information & Communication
-  - Mesoscopic Physics
-  - Computational Physics
+  - Quantum Foundations
   - Music Producing
-  - Photography
-  - ITX Case Designing
+  - Computer Case Designing
   - Gaming
 
 education:
