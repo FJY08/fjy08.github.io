@@ -27,6 +27,6 @@ links:
   - type: pdf
     url: https://www.mdpi.com/2218-2004/10/4/154
 image:
-  filename: featured.jpg
+  filename: featured.png
   focal_point: "Center"
 ---

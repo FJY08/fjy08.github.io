@@ -26,7 +26,4 @@ featured: false
 links:
   - type: pdf
     url: https://iopscience.iop.org/article/10.1088/1361-6455/ac91d0
-image:
-  filename: featured.jpg
-  focal_point: "Center"
 ---
