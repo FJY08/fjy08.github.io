@@ -59,8 +59,8 @@ education:
       GPA: 8.7/10.0 (Top 5%)
 
       Thesis: *Biased-Noise Threshold Studies for Holographic Quantum Error-Correcting Codes*  
-      - Showed that holographic quantum error-correcting codes can beat the zero-rate hashing bound under biased noise, with HaPPY and related codes hitting the 50% threshold.
-      - Built an automated tensor-network toolkit that generates stabilizers and logical operators for holographic codes, making it much easier to explore new QEC ideas.
+      - Showed that holographic quantum error-correcting codes can overcome the zero-rate hashing bound under biased noise.
+      - Built an automated tensor-network toolkit that generates stabilizers and logical operators for holographic codes, making it much easier to explore new HQEC ideas.
   - area: BEng Nuclear Engineering and Technology
     institution: Fudan University, China
     date_start: 2018-09-01
