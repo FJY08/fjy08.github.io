@@ -9,7 +9,7 @@ authors:
 date: "2024-08-15"
 publishDate: "2024-08-16"
 publication_types: ["article-journal"]
-publication: "*Quantum Science and Technology* (under major revision)"
+publication: "*Quantum Science and Technology* (under revision)"
 publication_short: "QST"
 abstract: |
   We show that holographic quantum error correction codes can exceed the zero-rate hashing bound, 
