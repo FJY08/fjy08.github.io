@@ -36,7 +36,6 @@ image:
   filename: featured.jpg
   focal_point: "Center"
 ---
----
 title: "Exponentially decaying quantum simulation error with noisy devices"
 authors:
 - Jue Xu
@@ -65,7 +64,6 @@ links:
 image:
   filename: featured.jpg
   focal_point: "Center"
----
 ---
 title: "Overcoming the zero-rate hashing bound with holographic quantum error correction"
 authors:
@@ -96,7 +94,6 @@ links:
 image:
   filename: featured.jpg
   focal_point: "Center"
----
 ---
 title: "LEGO HQEC: A software tool for analyzing holographic quantum codes"
 authors:
@@ -131,7 +128,6 @@ image:
   filename: featured.jpg
   focal_point: "Center"
 ---
----
 title: "Far from perfect: Quantum error correction with (hyperinvariant) Evenbly codes"
 authors:
 - Matthew Steinberg
@@ -157,7 +153,6 @@ links:
 image:
   filename: featured.jpg
   focal_point: "Center"
----
 ---
 title: "Optical lines of Ru21+ to Ru24+ ions"
 authors:
@@ -189,7 +184,6 @@ links:
 image:
   filename: featured.jpg
   focal_point: "Center"
----
 ---
 title: "Precise wavelength determination of the 4s24p 2p3/2–2p1/2 transition in Mo11+ and Ru13+ ions"
 authors:
