@@ -69,20 +69,12 @@ education:
       GPA: 3.5/4.0 (Top 10%)  
       Awarded *Shanghai Institute of Applied Physics Scholarship* (2021) for ranking 1st in the class.  
 
-      Relevant Courses:  
-      - Linear Algebra (A)  
-      - Advanced Mathematics (A)  
-      - Methods of Mathematical Physics (A-)  
-      - Probability Theory and Mathematical Statistics (A-)  
-      - Programming with C (A)  
-      - Programming with Python (B+)  
-      - Fundamentals of Digital Logic (A)
   - area: Exchange Student (Summer Program)
     institution: Yale University, USA
     date_start: 2019-07-01
     date_end: 2019-08-31
     summary: |
-      Attended summer program at Yale University focusing on advanced physics topics.
+      Summer school 2019.
 
 work:
   - position: Research Intern
