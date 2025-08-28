@@ -31,7 +31,7 @@ links:
     url: https://quantum-journal.org/papers/q-2025-03-01-1826/
 
 image:
-  filename: featured.jpg
+  filename: featured.png
   focal_point: "Center"
   preview_only: false
 ---

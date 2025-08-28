@@ -43,6 +43,6 @@ links:
     url: https://github.com/QML-Group/HQEC
 
 image:
-  filename: featured.jpg
+  filename: featured.png
   focal_point: "Center"
 ---
