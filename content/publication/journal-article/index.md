@@ -151,8 +151,9 @@ links:
   - type: pdf
     url: https://quantum-journal.org/papers/q-2025-03-01-1826/
 image:
-  filename: featured.jpg
-  focal_point: "Center"
+  filename: Far from perfect: Quantum error correction with (hyperinvariant) Evenbly codes.jpg    # 文件名要和上面的图片一致
+  focal_point: "Center"     # 可选：Center, TopLeft, Bottom, Smart 等
+  preview_only: false       # false = 列表卡片也显示缩略图；true = 只在正文显示
 ---
 title: "Optical lines of Ru21+ to Ru24+ ions"
 authors:
