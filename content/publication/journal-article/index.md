@@ -9,8 +9,8 @@ authors:
 - Chunjun Cao
 date: "2025-04-20"
 publishDate: "2025-04-21"
-publication_types: ["article-journal"]
-publication: "*PRX Quantum* (accepted with minor revision)"
+publication_types: ["article-preprint"]   # ← 标成预印本
+publication: "arXiv preprint"
 publication_short: "PRX Quantum"
 abstract: |
   We present a framework for universal fault-tolerant logic with heterogeneous holographic codes. 
@@ -45,7 +45,7 @@ authors:
 - Qi Zhao
 date: "2025-04-18"
 publishDate: "2025-04-19"
-publication_types: ["article-journal"]
+publication_types: ["article-preprint"]   # ← 标成预印本
 publication: "arXiv preprint"
 publication_short: "arXiv"
 abstract: |
@@ -76,9 +76,9 @@ authors:
 - Sebastian Feld
 date: "2024-08-15"
 publishDate: "2024-08-16"
-publication_types: ["article-journal"]
-publication: "*Quantum Science and Technology* (under major revision)"
-publication_short: "QST"
+publication_types: ["article-preprint"]   # ← 标成预印本
+publication: "arXiv preprint"
+publication_short: "IOP QST"
 abstract: |
   We show that holographic quantum error correction codes can exceed the zero-rate hashing bound, 
   providing new insights into the structure and limits of quantum information.
