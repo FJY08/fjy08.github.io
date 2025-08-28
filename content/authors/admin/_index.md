@@ -58,9 +58,9 @@ education:
     summary: |
       GPA: 8.7/10.0 (Top 5%)
 
-      Thesis: *A Theory of Intrinsic Measurement-Free Quantum Error Correction in Spin Qubits*  
-      - Developed a measurement-free quantum error correction scheme based on Fermionic properties of electrons.  
-      - Mapped the feedback problem to a four-color linear separability problem on a hypercube, demonstrating advantages for spin qubit platforms.
+      Thesis: *Biased-Noise Threshold Studies for Holographic Quantum Error-Correcting Codes*  
+      - Showed that holographic quantum error-correcting codes can beat the zero-rate hashing bound under biased noise, with HaPPY and related codes hitting the 50% threshold.
+      - Built an automated tensor-network toolkit that generates stabilizers and logical operators for holographic codes, making it much easier to explore new QEC ideas.
   - area: BEng Nuclear Engineering and Technology
     institution: Fudan University, China
     date_start: 2018-09-01
@@ -95,7 +95,6 @@ work:
       **Project:** Intrinsic Measurement-Free Quantum Error Correction in Spin Qubits  
       - Developed a measurement-free QEC scheme leveraging Fermionic properties of electrons.  
       - Mapped the error correction feedback problem to a four-color linear separability problem on a hypercube.  
-      - Showed unique advantages for spin qubit platforms.
   - position: Research Intern
     company_name: Aramco Overseas Company
     company_url: ''
@@ -115,7 +114,7 @@ work:
     summary: |
       **Project:** Biased Noise Study for Holographic Quantum Error Correcting Codes  
       - Developed a program for operator push in holographic tensor networks, the first automated implementation.  
-      - Designed multiple decoders (tensor network, integer optimization, neural network) achieving near-optimal decoding.  
+      - Developed multiple decoders (tensor network, integer optimization, neural network) achieving near-optimal decoding.  
       - Discovered a holographic error-correcting code with 50% threshold under pure Pauli errors, surpassing the hashing bound.
   - position: Research Assistant
     company_name: Institute of Modern Physics, Fudan University
@@ -127,7 +126,6 @@ work:
       **Project:** Transition Spectra of Highly Charged Ruthenium Ions  
       - Conducted high-precision measurements of M1 transition spectrum of Ru13+ ions using EBIT.  
       - Achieved wavelength measurement accuracy of 0.002 nm.  
-      - Contributed to the development of Ru ion clocks and fundamental constant studies.
   - position: Business Analyst Intern
     company_name: Scheme Capital
     company_url: ''
@@ -135,15 +133,15 @@ work:
     date_start: 2020-07-01
     date_end: 2020-09-30
     summary: |
-      Conducted industry research, investment case studies, and financial modeling.  
-      Participated in multiple early-stage investment projects.
+      - Conducted industry research, investment case studies, and financial modeling.  
+      - Participated in multiple early-stage investment projects.
 
 
 awards:
   - title: Shanghai Institute of Applied Physics Scholarship
     awarder: Shanghai Institute of Applied Physics
-    date: '2021-01-01'
-    summary: Awarded for ranking 1st in class at Fudan University.
+    date: '2021-05-01'
+    summary: Awarded for ranking 1st in class.
 ---
 ## About Me
 
