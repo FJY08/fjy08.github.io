@@ -40,13 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/QML-Group
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/junyu-fan/   # 如果有LinkedIn，请替换实际链接
-  - icon: brands/x
-    url: https://twitter.com/   # 如果有Twitter，可填具体账号或删除
-  - icon: brands/instagram
-    url: https://www.instagram.com/   # 若没有可删
-  - icon: academicons/orcid
-    url: https://orcid.org/   # 如果有ORCID ID可替换
+    url: https://www.linkedin.com/in/%E5%B3%BB%E7%91%9C-junyu-fan-%E8%8C%83-82522a164/  # 如果有LinkedIn，请替换实际链接
 
 interests:
   - The Nature of Intelligence
