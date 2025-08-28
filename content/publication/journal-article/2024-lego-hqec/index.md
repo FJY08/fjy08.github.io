@@ -14,7 +14,6 @@ publication: "arXiv preprint"
 publication_short: "arXiv"
 abstract: |
   LEGO HQEC is an open-source tool for analyzing holographic quantum error-correcting codes. 
-  It provides modular design and visualization for research and education in holographic codes.
 summary: "LEGO HQEC: an analysis tool for holographic codes."
 tags: [Quantum Error Correction, Holographic Codes, Software]
 featured: true
@@ -22,8 +21,6 @@ hugoblox:
   ids:
     arxiv: 2410.22861
 links:
-  - type: pdf
-    url: https://arxiv.org/pdf/2410.22861.pdf
   - type: arxiv
     url: https://arxiv.org/abs/2410.22861
   - type: code

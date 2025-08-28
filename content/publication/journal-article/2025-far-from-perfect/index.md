@@ -25,8 +25,8 @@ tags: [Quantum Error Correction, Tensor Networks, Evenbly Codes]
 featured: false
 
 links:
-  - type: pdf
-    url: https://quantum-journal.org/papers/q-2025-03-01-1826/
+  - type: doi
+    url: https://doi.org/10.22331/q-2025-08-08-1826
 
 image:
   filename: featured.png

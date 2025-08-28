@@ -11,8 +11,7 @@ publication_types: ["article-journal"]
 publication: "arXiv preprint"
 publication_short: "arXiv"
 abstract: |
-  We demonstrate exponentially decaying error for quantum simulations on noisy devices, 
-  providing a framework that shows practical performance benefits even in the presence of noise.
+  Quantum simulation is a promising way toward practical quantum advantage, but noise in current quantum hardware poses a significant obstacle. We theoretically and numerically revealed that not only the physical error but also the algorithmic error in a single Trotter step decreases exponentially with the circuit depth. In particular, according to our results, we derive the optimal number of Trotter steps and the noise requirement to guarantee total simulation precision. At last, we demonstrate that our improved error analysis leads to significant resource-saving for fault-tolerant Trotter simulation. By addressing these aspects, this work systematically characterizes the robustness of Trotter simulation errors in noisy quantum devices and paves the way toward practical quantum advantage.
 summary: Exponentially decaying error in quantum simulations with noisy devices.
 tags: [Quantum Simulation, Error Mitigation]
 featured: false
@@ -20,8 +19,6 @@ hugoblox:
   ids:
     arxiv: 2504.10247
 links:
-  - type: pdf
-    url: https://arxiv.org/pdf/2504.10247.pdf
   - type: arxiv
     url: https://arxiv.org/abs/2504.10247
 image:
