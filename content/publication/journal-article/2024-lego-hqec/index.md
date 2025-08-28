@@ -17,7 +17,7 @@ abstract: |
   It provides modular design and visualization for research and education in holographic codes.
 summary: "LEGO HQEC: an analysis tool for holographic codes."
 tags: [Quantum Error Correction, Holographic Codes, Software]
-featured: false
+featured: true
 hugoblox:
   ids:
     arxiv: 2410.22861

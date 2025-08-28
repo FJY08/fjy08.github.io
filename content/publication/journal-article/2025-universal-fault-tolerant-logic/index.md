@@ -26,7 +26,7 @@ tags:
   - Holographic Codes
   - AdS/CFT
 
-featured: true
+featured: false
 
 hugoblox:
   ids:
